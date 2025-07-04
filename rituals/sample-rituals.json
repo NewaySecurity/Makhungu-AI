@@ -1,0 +1,140 @@
+{
+  "rituals": [
+    {
+      "id": "hlantswa_001",
+      "name": "River Cleansing Bath",
+      "type": "MAKHUNGU YA KU HLANTSWA",
+      "category": "cleansing",
+      "description": "Deep spiritual cleansing to remove negative energies and spiritual dirt",
+      "ingredients": [
+        "River water (2 cups)",
+        "Sea salt (1 handful)",
+        "Bitter herbs (impepho or wild dagga)",
+        "White candle"
+      ],
+      "instructions": [
+        "Collect water from a flowing river at sunrise or sunset",
+        "Add salt while speaking your intention in Xitsonga",
+        "Light white candle and place near bath",
+        "Steep bitter herbs in hot water for 7 minutes",
+        "Add herbal water to river water",
+        "Bathe while facing east, washing from head to feet",
+        "After bathing, take offering to the river"
+      ],
+      "purpose": "Purify aura, remove spiritual blockages, cleanse negative attachments",
+      "timing": "New moon, Sunday morning, or when guided by spirit",
+      "warnings": "Never use during menstruation or pregnancy",
+      "xitsonga_incantation": "Moya wa mina wu pfula, mati ya vuhosi ya susa",
+      "sacred_number": 7
+    },
+    {
+      "id": "nwa_001", 
+      "name": "Prophecy Enhancement Tea",
+      "type": "MAKHUNGU YA KU NWA",
+      "category": "spiritual_drinks",
+      "description": "Sacred drink to enhance prophetic gifts and inner sight",
+      "ingredients": [
+        "Honey (2 tablespoons)",
+        "Fresh mint leaves",
+        "Lemon juice (3 drops)",
+        "Spring water",
+        "African wormwood (small pinch)"
+      ],
+      "instructions": [
+        "Boil spring water under the full moon",
+        "Add mint leaves and wormwood, steep for 13 minutes",
+        "Strain and add honey while still warm",
+        "Add 3 drops of lemon juice",
+        "Drink before sunrise or meditation",
+        "Sit in silence for 21 minutes after drinking"
+      ],
+      "purpose": "Open third eye, enhance dreams, increase spiritual sensitivity",
+      "timing": "Full moon, Thursday evening, before important spiritual work",
+      "warnings": "Start with small amounts, may cause vivid dreams",
+      "xitsonga_incantation": "Mahlo ya moya ya pfula, ku vona ku ta",
+      "sacred_number": 3
+    },
+    {
+      "id": "hisa_001",
+      "name": "Spirit Portal Incense",
+      "type": "MAKHUNGU YA KU HISA", 
+      "category": "incense_smoke",
+      "description": "Sacred smoke to open portals and invite ancestral guidance",
+      "ingredients": [
+        "Ground coffee (1 tablespoon)",
+        "Frankincense resin",
+        "Impepho (African sage)",
+        "Charcoal disc"
+      ],
+      "instructions": [
+        "Light charcoal disc on fireproof surface",
+        "When glowing, add frankincense first",
+        "Mix coffee with impepho, add to charcoal",
+        "Fan smoke toward all four directions",
+        "Speak your requests to the ancestors",
+        "Let burn completely, collect ash for protection"
+      ],
+      "purpose": "Open spiritual portals, communicate with ancestors, cleanse space",
+      "timing": "Sunday evening, before ritual work, when seeking guidance",
+      "warnings": "Use in well-ventilated space, never leave unattended",
+      "xitsonga_incantation": "Mphahla wa vadzongi wu pfula, moya wa vukulu wu ta",
+      "sacred_number": 4
+    },
+    {
+      "id": "boha_001",
+      "name": "Protection Binding Ritual",
+      "type": "MAKHUNGU YA KU BOHA",
+      "category": "binding_protection", 
+      "description": "Powerful binding to protect against spiritual attacks and negative forces",
+      "ingredients": [
+        "Black thread or string",
+        "White ash from blessed fire",
+        "Small mirror",
+        "Black candle",
+        "Your full name written on paper"
+      ],
+      "instructions": [
+        "Light black candle at midnight",
+        "Write your name 7 times on paper",
+        "Sprinkle ash on the paper",
+        "Tie with black thread while stating protection prayer",
+        "Hold mirror facing away from you",
+        "Bind the mirror to the paper packet",
+        "Bury at crossroads or keep under your bed"
+      ],
+      "purpose": "Shield from spiritual attacks, return negative energy to sender",
+      "timing": "Dark moon, Saturday midnight, when under spiritual attack",
+      "warnings": "Very powerful - use only when truly needed",
+      "xitsonga_incantation": "Ku tivela ku boha, vutivi bya mina byi sirheleke",
+      "sacred_number": 7
+    },
+    {
+      "id": "pfula_001",
+      "name": "Opportunity Opening Mixture",
+      "type": "MAKHUNGU YA KU PFULA NDLELA",
+      "category": "path_opening",
+      "description": "Sweet mixture to attract luck, opportunities, and open blocked paths",
+      "ingredients": [
+        "White sugar (1 cup)",
+        "Fresh mint leaves",
+        "Milk (3 tablespoons)",
+        "3 silver coins",
+        "Green candle"
+      ],
+      "instructions": [
+        "Mix sugar with chopped mint leaves",
+        "Add milk slowly while stirring clockwise",
+        "Place 3 coins in the mixture",
+        "Light green candle and place mixture before it",
+        "Pray for specific opportunities you seek",
+        "Leave overnight, then take to a busy intersection",
+        "Sprinkle mixture while walking away, don't look back"
+      ],
+      "purpose": "Open new opportunities, attract luck, remove obstacles",
+      "timing": "Waxing moon, Friday morning, start of new ventures",
+      "warnings": "Be specific about what you're asking for",
+      "xitsonga_incantation": "Tindlela ti pfula, mafurha ya ta emirini ya mina",
+      "sacred_number": 3
+    }
+  ]
+}
